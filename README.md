@@ -1,5 +1,14 @@
 # Campus Information Retrieval Assistant
 
+
+  <P align="center">Major Project (4-2) 2025-2026 </P>
+<p align="center">
+  <a href="https://nikhilhello.github.io/CIRA/">
+    <img src="https://img.shields.io/badge/Project%20Artifacts%20Hub-Open-blue?style=for-the-badge" alt="Project Artifacts Hub">
+  </a>
+</p>
+
+
 <p align="center">
   <img src="assets/cira.svg" alt="CIRA Logo" width="220"/>
 </p>
