@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="assets/cira.svg" alt="CIRA Logo" width="220"/>
+  <img src="assets/logo.svg" alt="CIRA Logo" width="220"/>
 </p>
 
 <p align="center">
