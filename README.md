@@ -261,7 +261,7 @@ The model is loaded via HuggingFace `transformers` (`AutoModelForCausalLM` + `Au
 | **D. Maruthi** | Backend Integration |
 | **CH. Jignesh Shourya** | Data Pipelines & Processing |
 | **G. Mahendra** | SLM Architecture & Training |
-| **K. Nikhil** | Testing & Quality Assurance |
+| **K. Nikhil** | **Testing & Quality Assurance** |
 
 **Project Guide:** Mr. Gotte Ranjit Kumar — SR University, Department of CSE
 
