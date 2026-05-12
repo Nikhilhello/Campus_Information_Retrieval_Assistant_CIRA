@@ -266,6 +266,14 @@ The model is loaded via HuggingFace `transformers` (`AutoModelForCausalLM` + `Au
 **Project Guide:** Mr. Gotte Ranjit Kumar — SR University, Department of CSE
 
 ---
+<img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/66ded50b-336e-4318-b338-6a0e67037413" />
+<!-- <img width="1920" height="971" alt="image" src="https://github.com/user-attachments/assets/57b299a2-37b9-43db-a95a-8a889079afb4" /> -->
+<!-- <img width="1920" height="973" alt="image" src="https://github.com/user-attachments/assets/53aeed78-5fe6-4531-b9d6-24b631ccdb1e" /> -->
+<img width="1917" height="877" alt="image" src="https://github.com/user-attachments/assets/9a6285d7-7cfc-47a5-baa1-c6650042eaf1" />
+
+
+
+---
 
 ## License
 
